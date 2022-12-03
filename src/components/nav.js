@@ -22,7 +22,7 @@ const Nav = (props) => {
     >
       <div className="vertical-line vertical-line-nav"></div>
       <div className="logo-container">
-        <a className="logo" href="/">
+        <a className="logo" href={CONFIG.logo[0].url}>
           {CONFIG.logo[0].name}
         </a>
       </div>
