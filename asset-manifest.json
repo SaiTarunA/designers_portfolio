@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/designers_portfolio/static/css/main.4e8d2efe.css",
-    "main.js": "/designers_portfolio/static/js/main.81525998.js",
+    "main.js": "/designers_portfolio/static/js/main.2e9e455b.js",
     "static/media/projects_bg.png": "/designers_portfolio/static/media/projects_bg.5063972a7490f321643a.png",
-    "static/media/about.svg": "/designers_portfolio/static/media/about.92a97e607d4d62031ce24ee6062315a2.svg",
-    "static/media/hero.svg": "/designers_portfolio/static/media/hero.316d3a32bb83afb740ec121db46c7d39.svg",
-    "static/media/contact_doodles.svg": "/designers_portfolio/static/media/contact_doodles.ee49abcdcc50d66961b08c78a2d1222a.svg",
-    "static/media/contact_image.svg": "/designers_portfolio/static/media/contact_image.709f9d13ccc0950e5ea54ea604b8216a.svg",
-    "static/media/about_doodles.svg": "/designers_portfolio/static/media/about_doodles.e78969af18fced336d4229a078f59c17.svg",
-    "static/media/menu_icon.svg": "/designers_portfolio/static/media/menu_icon.f9f5dad0baf9a4e1061b7a32bfca931f.svg",
-    "static/media/instagram_logo.svg": "/designers_portfolio/static/media/instagram_logo.191c9f349459e327723df9d689d787a1.svg",
-    "static/media/contact_icon.svg": "/designers_portfolio/static/media/contact_icon.1b64e66059f8081d593b436c076aeaed.svg",
-    "static/media/send_icon.svg": "/designers_portfolio/static/media/send_icon.f38850e4e90a86a342799165e54f04e3.svg",
-    "static/media/youtube_logo.svg": "/designers_portfolio/static/media/youtube_logo.c566d8e99e2d4fbc4656c637d8128806.svg",
-    "static/media/twitter_logo.svg": "/designers_portfolio/static/media/twitter_logo.aba0c51a9338abb722db8f7f485f111b.svg",
-    "static/media/hero_arrow.svg": "/designers_portfolio/static/media/hero_arrow.8d4d16fab85b22cca98c2ddaf5fa1b25.svg",
+    "static/media/about.svg": "/designers_portfolio/static/media/about.1026016784b71ecbf4615482698adc5e.svg",
+    "static/media/hero.svg": "/designers_portfolio/static/media/hero.104bff5e02b40af01743e7f7f591d15e.svg",
+    "static/media/contact_doodles.svg": "/designers_portfolio/static/media/contact_doodles.0b887ccd45d69c225466151657b4a8fe.svg",
+    "static/media/contact_image.svg": "/designers_portfolio/static/media/contact_image.26e6ea9765b69733c4cc72eef285bb13.svg",
+    "static/media/about_doodles.svg": "/designers_portfolio/static/media/about_doodles.863505c96e93a041e9881823ebdb4e55.svg",
+    "static/media/menu_icon.svg": "/designers_portfolio/static/media/menu_icon.1e0ec5dc7eaa96ca8be669c50b4b19f3.svg",
+    "static/media/instagram_logo.svg": "/designers_portfolio/static/media/instagram_logo.7b8e4de588d02923a8d768cc4debb6cf.svg",
+    "static/media/contact_icon.svg": "/designers_portfolio/static/media/contact_icon.606f6f7ee4381dcc0cdca7fa919a2a41.svg",
+    "static/media/send_icon.svg": "/designers_portfolio/static/media/send_icon.38d611afb44055912a79ae5f12fb1e35.svg",
+    "static/media/youtube_logo.svg": "/designers_portfolio/static/media/youtube_logo.9b4c97c589b555c6bee6f53fde8f0304.svg",
+    "static/media/twitter_logo.svg": "/designers_portfolio/static/media/twitter_logo.cadd1bbb49b49c6216e4bd53dc2313bb.svg",
+    "static/media/hero_arrow.svg": "/designers_portfolio/static/media/hero_arrow.a2ed44ba21b5c77b99a6767475d42472.svg",
     "index.html": "/designers_portfolio/index.html",
-    "static/media/download_icon.svg": "/designers_portfolio/static/media/download_icon.cd1f51c2b02003af2cbaf5c0ec8cef8d.svg",
-    "static/media/about_me_icon.svg": "/designers_portfolio/static/media/about_me_icon.4477b88c76740f92869018ee74728077.svg",
-    "static/media/facebook_logo.svg": "/designers_portfolio/static/media/facebook_logo.c1435a3e87a39f7c89726312821b45a9.svg",
-    "static/media/home_icon.svg": "/designers_portfolio/static/media/home_icon.2c6ed6e93209b2c901b175194745c337.svg",
-    "static/media/bottom_arrow_icon.svg": "/designers_portfolio/static/media/bottom_arrow_icon.ac8ca8752c24bb0c256ab13382e7bd51.svg",
+    "static/media/download_icon.svg": "/designers_portfolio/static/media/download_icon.1cd5208844c2c633c9418208d8d2d5e0.svg",
+    "static/media/about_me_icon.svg": "/designers_portfolio/static/media/about_me_icon.4ade6d5949ba4fcfc4093882503e8058.svg",
+    "static/media/facebook_logo.svg": "/designers_portfolio/static/media/facebook_logo.7975a38a01397ee136fb887f8bc96da7.svg",
+    "static/media/home_icon.svg": "/designers_portfolio/static/media/home_icon.2cab334db20a372c71f17584b64c5fa9.svg",
+    "static/media/bottom_arrow_icon.svg": "/designers_portfolio/static/media/bottom_arrow_icon.0e3dcd4339e43d028971953ab6c3a8bf.svg",
     "main.4e8d2efe.css.map": "/designers_portfolio/static/css/main.4e8d2efe.css.map",
-    "main.81525998.js.map": "/designers_portfolio/static/js/main.81525998.js.map"
+    "main.2e9e455b.js.map": "/designers_portfolio/static/js/main.2e9e455b.js.map"
   },
   "entrypoints": [
     "static/css/main.4e8d2efe.css",
-    "static/js/main.81525998.js"
+    "static/js/main.2e9e455b.js"
   ]
 }
