@@ -12,6 +12,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
+    - name: Run before install
+      run: npm config set legacy-peer-deps true
+
     - name: Build
       run: npm install
 
