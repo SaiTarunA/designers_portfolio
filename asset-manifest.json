@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designers_portfolio/static/css/main.4e8d2efe.css",
-    "main.js": "/designers_portfolio/static/js/main.d0634e29.js",
+    "main.js": "/designers_portfolio/static/js/main.33aabe26.js",
     "static/media/projects_bg.png": "/designers_portfolio/static/media/projects_bg.5063972a7490f321643a.png",
     "static/media/about.svg": "/designers_portfolio/static/media/about.1026016784b71ecbf4615482698adc5e.svg",
     "static/media/hero.svg": "/designers_portfolio/static/media/hero.104bff5e02b40af01743e7f7f591d15e.svg",
@@ -22,10 +22,10 @@
     "static/media/home_icon.svg": "/designers_portfolio/static/media/home_icon.2cab334db20a372c71f17584b64c5fa9.svg",
     "static/media/bottom_arrow_icon.svg": "/designers_portfolio/static/media/bottom_arrow_icon.0e3dcd4339e43d028971953ab6c3a8bf.svg",
     "main.4e8d2efe.css.map": "/designers_portfolio/static/css/main.4e8d2efe.css.map",
-    "main.d0634e29.js.map": "/designers_portfolio/static/js/main.d0634e29.js.map"
+    "main.33aabe26.js.map": "/designers_portfolio/static/js/main.33aabe26.js.map"
   },
   "entrypoints": [
     "static/css/main.4e8d2efe.css",
-    "static/js/main.d0634e29.js"
+    "static/js/main.33aabe26.js"
   ]
 }
