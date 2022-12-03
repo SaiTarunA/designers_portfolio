@@ -43,7 +43,7 @@ export const CONFIG = {
   logo: [
     {
       name: "JohnDoe",
-      url: "/"
+      url: "designers_portfolio/"
     }
   ],
   hero: [
@@ -52,10 +52,10 @@ export const CONFIG = {
       main_line: "DESIGNER",
       image: <HeroImage />,
       primary_button: "Hire me",
-      primary_button_url: "/#contact",
+      primary_button_url: "designers_portfolio/#contact",
       primary_button_icon: "",
       secondary_button: "Download CV",
-      secondary_button_url: "/assets/SampleCV.pdf",
+      secondary_button_url: "designers_portfolio/assets/SampleCV.pdf",
       secondary_button_icon: <DownloadIcon />,
       show_arrow_doodle: true
     }
@@ -234,17 +234,17 @@ export const CONFIG = {
   navLinks: [
     {
       name: "Home",
-      url: "/#home",
+      url: "designers_portfolio/#home",
       icon: HomeIcon
     },
     {
       name: "About Me",
-      url: "/#about",
+      url: "designers_portfolio/#about",
       icon: AboutMeIcon
     },
     {
       name: "Contact",
-      url: "/#contact",
+      url: "designers_portfolio/#contact",
       icon: ContactIcon
     }
   ]
